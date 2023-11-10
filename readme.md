@@ -6,10 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.youtube.com/@internet_aj" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="internet_aj" height="30" width="40" /></a>
     <a href="https://www.instagram.com/ajdibo23" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ajdibo23" height="30" width="40" /></a>
         <p><b>@ok_aj</b> on Discord</p>
         <p><b>ajontheinternet100@gmail.com</b> on Gmail</p>
