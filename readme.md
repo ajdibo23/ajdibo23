@@ -1,7 +1,5 @@
 <h1>https://ajdev.pro</h1>
 <br>
-<br>
-<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=ajdibo23" alt="ajdibo23" /></a> </p>
 
