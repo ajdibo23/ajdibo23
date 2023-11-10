@@ -13,8 +13,8 @@
     <a href="https://www.youtube.com/@internet_aj" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="straight from mg" height="30" width="40" /></a>
-        <p><bold>@ok_aj</bold> on Discord</p>
-        <p><bold>ajontheinternet100@gmail.com</bold> on Gmail</p>
+        <p><b>@ok_aj</b> on Discord</p>
+        <p><b>ajontheinternet100@gmail.com</b> on Gmail</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
