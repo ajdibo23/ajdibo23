@@ -211,17 +211,17 @@
         </p>
         <br>
         <hr>
-        <center>
-            <h3>Have questions? Project ideas? Or just want to talk?</h3>
-            <div style="display: grid; grid-template-columns: 5fr 1fr 5fr; grid-gap: 1em; font-size: 2em;"
-                class="loaded">
-                <div>
+        <center class="loaded">
+            <h2 class="loaded">Want a custom made project?</h2>
+            <h3 class="loaded">Contact Me!</h3>
+            <div class="contact loaded">
+                <div class="loaded">
                     <code class="loaded">ajontheinternet100@gmail.com</code>
                     <h5 class="loaded">Via Email</h5>
                 </div>
                 <h6 class="loaded">or</h6>
-                <div>
-                    <code class="loaded">@ok_aj</code>
+                <div class="loaded">
+                    <code class="loaded">@lkgh</code>
                     <h5 class="loaded">On Discord</h5>
                 </div>
             </div>
@@ -230,7 +230,6 @@
     <script>
         var elements = document.querySelectorAll('#main *');
         for (var i = 0; i < elements.length; i++) {
-            console.log(elements[i].classList, elements[i].classList.contains('loaded'));
             if ((elements[i].tagName == "HR") || (elements[i].classList.contains('loaded'))) {
                 elements[i].classList.add('visible');
             } else {

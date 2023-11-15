@@ -201,3 +201,43 @@ code {
 .hidden2 {
   display: none;
 }
+
+.contact {
+  display: grid;
+  grid-template-columns: 5fr 1fr 5fr;
+  grid-gap: 1em;
+  font-size: 2em;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .threeCol {
+    grid-template-columns: 1fr;
+  }
+
+  body {
+    font-size: 1em;
+  }
+
+  ul {
+    font-size: .5em;
+  }
+
+  p {
+    max-width: 90%;
+  }
+
+  img {
+    max-width: 90%;
+  }
+
+  .contact {
+    grid-template-columns: 1fr;
+    font-size: 1em;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2.5em;
+  }
+}
